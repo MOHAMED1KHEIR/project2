@@ -1,0 +1,21 @@
+﻿  ODEV1o1.cpp
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(318,80): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(318,80): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(318,115): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(318,170): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(318,215): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(325,14): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,81): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,81): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,116): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,171): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,216): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,216): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(559,279): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(566,15): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(624,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(758,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(825,13): warning C4566: character represented by universal-character-name '\u0131' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(825,13): warning C4566: character represented by universal-character-name '\u015F' cannot be represented in the current code page (1252)
+C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\ODEV1o1\ODEV1o1.cpp(399): warning C4715: 'DoublyLinkedList::IDye_göre_ameliyat_ücretini_hesapla': not all control paths return a value
+  ODEV1o1.vcxproj -> C:\Users\SAMSONY\Desktop\ODEV1Otomasyon1\x64\Debug\ODEV1o1.exe
